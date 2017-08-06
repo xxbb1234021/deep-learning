@@ -4,7 +4,7 @@
 * 1.以随机的方式产生filter weight， 大小是3*3
 * 2.在要转换的图片上由左到右，由上到下，依顺序选取3*3的矩阵
 * 3.图片中选取的3*3的矩阵与filter weight做乘积，计算生成第1行、第1列的数字
-  ![Alt text](../img/1.png)
+  ![输入图片说明](https://github.com/xxbb1234021/deep-learning/blob/master/img/cnn_1.png "在这里输入图片标题")
   以相同的方式计算生成第1行、第2列的数字
   
   依照上面的方式，完成所有的计算
