@@ -25,3 +25,7 @@
 * 减少需要处理的信息量
 * 图片的差异变小
 * 参数的数量和计算量减小
+
+#### 代码地址
+
+- [github地址](https://github.com/xxbb1234021/deep-learning/blob/master/keras/cnn_mnist.ipynb)
