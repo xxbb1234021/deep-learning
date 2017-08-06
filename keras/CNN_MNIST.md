@@ -5,9 +5,9 @@
 * 2.在要转换的图片上由左到右，由上到下，依顺序选取3*3的矩阵
 * 3.图片中选取的3*3的矩阵与filter weight做乘积，计算生成第1行、第1列的数字
   ![输入图片说明](https://github.com/xxbb1234021/deep-learning/blob/master/img/cnn_1.png "在这里输入图片标题")
-  以相同的方式计算生成第1行、第2列的数字
+* 4.以相同的方式计算生成第1行、第2列的数字
   ![输入图片说明](https://github.com/xxbb1234021/deep-learning/blob/master/img/cnn_2.png "在这里输入图片标题")
-  依照上面的方式，完成所有的计算
+* 依照上面的方式，完成所有的计算
   
 
 ### Max-pool运算方式
