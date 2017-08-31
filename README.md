@@ -7,6 +7,7 @@
 ##### 2. 代码
 - cnn手写字体识别 [github地址](https://github.com/xxbb1234021/deep-learning/blob/master/keras/cnn_mnist.ipynb)
 - cnn物体识别 [github地址](https://github.com/xxbb1234021/deep-learning/blob/master/keras/cnn_cifar.ipynb)
+- 情感分类 [github地址](https://github.com/xxbb1234021/deep-learning/blob/master/keras/text_classify.ipynb)
 
 ## 文档
 - cnn手写字体识别 [github地址](https://github.com/xxbb1234021/deep-learning/blob/master/doc/CNN_MNIST.md)
