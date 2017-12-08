@@ -5,8 +5,8 @@
 - Tensorflow : 1.1.0
 
 ##### 2. 代码
-- cnn手写字体识别 [github地址](https://github.com/xxbb1234021/deep-learning/blob/master/keras/image_recognition/cnn_cifar.ipynb)
-- cnn物体识别 [github地址](https://github.com/xxbb1234021/deep-learning/blob/master/keras/image_recognition/cnn_mnist.ipynb)
+- cnn手写字体识别 [github地址](https://github.com/xxbb1234021/deep-learning/blob/master/keras/images_recognition/cnn_cifar.ipynb)
+- cnn物体识别 [github地址](https://github.com/xxbb1234021/deep-learning/blob/master/keras/images_recognition/cnn_mnist.ipynb)
 - 情感分类 [github地址](https://github.com/xxbb1234021/deep-learning/blob/master/keras/text_classify.ipynb)
 - 数字语音识别 [github地址](https://github.com/xxbb1234021/deep-learning/blob/master/keras/number_speech/number_speech_test.ipynb)
 
